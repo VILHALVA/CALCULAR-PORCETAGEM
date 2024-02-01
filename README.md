@@ -4,20 +4,7 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-Este projeto consiste em uma calculadora de porcentagem que permite calcular descontos ou aumentos em valores monetários. Aqui estão as principais funcionalidades implementadas:
-
-1. Inserir Valores:
-   - Digite o valor original no campo "VALOR".
-   - Digite a porcentagem de desconto ou aumento no campo "PORCENTAGEM".
-   - Selecione o tipo de operação desejada (Desconto ou Aumento) no menu suspenso.
-
-2. Calcular:
-   - Clique no botão "CALCULAR" para calcular o valor do desconto ou aumento.
-   - O resultado será exibido abaixo do botão, mostrando o valor do desconto/aumento e o novo valor calculado com base na operação selecionada.
-
-3. Limpar Campos:
-   - Se desejar limpar os campos de entrada e o resultado, clique no botão "LIMPAR".
-   - Isso restaurará os campos de entrada para seus valores padrão e limpará a área de resultado.
+Este projeto consiste em uma calculadora de porcentagem que permite calcular descontos ou aumentos em valores monetários. 
 
 ## COMO USAR?
 ### BAIXANDO O PROJETO:
