@@ -18,29 +18,7 @@ Este projeto consiste em uma calculadora de porcentagem que permite aos usuário
 4. Limpar Campos:
    - O botão "LIMPAR" permite que os usuários limpem todos os campos, facilitando a entrada de novos valores.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CALCULAR-PORCETAGEM.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CALCULAR-PORCETAGEM
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CALCULAR-PORCETAGEM.zip
-```
-
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Inserir Valores:
    - Digite o valor original no campo "VALOR".
    - Digite a porcentagem de desconto ou aumento no campo "PORCENTAGEM".
@@ -56,9 +34,9 @@ unzip CALCULAR-PORCETAGEM.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
