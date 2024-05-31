@@ -40,5 +40,4 @@ Este projeto consiste em uma calculadora de porcentagem que permite aos usuário
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
